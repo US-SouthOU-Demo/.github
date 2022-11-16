@@ -26,7 +26,7 @@ As the number of repositories for this Organization will grow, please use the fo
 
 1.  If you have several related repositories, create a repository to act as the index to these other repositories.  This repository need only contain a README.md with descriptions and links to the other related repositories.
 
-|:book: Example|[See the github-actions-training repository for an example](https://github.com/us-southou-demo/github-actions-training)|
+|:book: Example|[See the github-actions-training repository for an example](https://github.com/US-SouthOU-Demo/github-actions-fundamentals-training)|
 |:---|:---|
 
 
