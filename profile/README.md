@@ -1,6 +1,6 @@
 # US-SouthOU-Demo Organization
 
-#### This GitHub Enterprise Cloud Organization is for team members of Microsoft's South OU to use to provide demonstrations to their customers.
+#### This GitHub Enterprise Cloud Organization is for team members of the Microsoft Sales South OU to use to provide demonstrations to their customers.
 
 As the number of repositories for this Organization will surely grow, please see the following best practices guide when setting up your repositories.
 
