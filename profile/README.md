@@ -1,6 +1,6 @@
-# US-SouthOU-Demo
+# US-SouthOU-Demo Organization
 
-***This GitHub Enterprise Cloud Organization is for team members of Microsoft's South OU to use to provide demonstrations to their customers.***
+#### This GitHub Enterprise Cloud Organization is for team members of Microsoft's South OU to use to provide demonstrations to their customers.
 
 As the number of repositories for this Organization will grow, please use the following best practices when setting up your repositories.
 
@@ -19,6 +19,14 @@ As the number of repositories for this Organization will grow, please use the fo
 2.  The repository's README.md should describe the purpose of the repository and any other useful information for users of the repository.
 
 |:link: More Information|[Markdown Sytax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
+|:---|:---|
+
+
+#### Index Repositories
+
+1.  If you have several related repositories, create a repository to act as the index to these other repositories.  This repository need only contain a README.md with descriptions and links to the other related repositories.
+
+|:book: Example|[See the github-actions-training repository for an example](https://github.com/us-southou-demo/github-actions-training)|
 |:---|:---|
 
 
