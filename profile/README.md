@@ -2,7 +2,14 @@
 
 #### This GitHub Enterprise Cloud Organization is for team members of Microsoft's South OU to use to provide demonstrations to their customers.
 
-As the number of repositories for this Organization will grow, please use the following best practices when setting up your repositories.
+As the number of repositories for this Organization will surely grow, please see the following best practices guide when setting up your repositories.
+
+<!-- Make the Repository Best Practices Guide Collapsible -->
+<details>
+<summary>
+  View the Repository Best Practices Guide
+</summary
+<p>
 
 #### Naming Convention
 
@@ -68,3 +75,6 @@ The following files can be added to the following folders in the repository:
 
 |:link: More Information|[Creating Default Community Health Files Documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)|
 |:---|:---|
+
+</p>
+</details>
